@@ -1,4 +1,4 @@
-### Layout of files
+# Layout of files
 
 ## >Images
 - Contains images
