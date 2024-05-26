@@ -1,8 +1,8 @@
 ## Layout of files
 
-### Images
-## Contains images
+## Images
+### Contains images
 
-### Coding files
-## index.html == Main website page
-## style.css == Functions for style
+## Coding files
+### index.html == Main website page
+### style.css == Functions for style
